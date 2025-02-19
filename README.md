@@ -2,7 +2,6 @@
 
 Matrona is an AI-powered sustainability platform that helps individuals estimate their **carbon footprint** and provides **actionable recommendations** to reduce CO₂ emissions. Using **Google Gemini AI**, it dynamically analyzes user data and offers **personalized sustainability tips** based on the highest emission sources.
 
----
 
 ## 🚀 Features
 
@@ -12,7 +11,6 @@ Matrona is an AI-powered sustainability platform that helps individuals estimate
 ✅ **Interactive Charts** – Visualize emissions using **pie charts, bar graphs, and comparisons.**  
 ✅ **User-Friendly UI** – A clean and modern **Streamlit-based** web interface.  
 
----
 
 ## 📊 How It Works
 
@@ -21,7 +19,6 @@ Matrona is an AI-powered sustainability platform that helps individuals estimate
 3. **Analyze Breakdown** – View a **detailed category-wise breakdown** with interactive charts.  
 4. **Get AI Recommendations** – Gemini AI suggests **actionable steps** to cut emissions.  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -30,14 +27,13 @@ Matrona is an AI-powered sustainability platform that helps individuals estimate
 - **AI Model:** Google **Gemini AI** (Generative AI)  
 - **Data Visualization:** Matplotlib, NumPy  
 
----
 
 ## ⚡ Installation & Setup
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/matrona.git
-cd matrona
+git clone https://github.com/keerthi77771/Ecometrics.git
+cd Ecometrics
 ```
 
 ### 2️⃣ Install Dependencies  
@@ -58,15 +54,12 @@ genai.configure(api_key=GOOGLE_API_KEY)
 streamlit run home.py
 ```
 
----
-
 ## 📸 Screenshots
 
 🚀 **Homepage** – Introduction & project overview  
 📊 **Results Dashboard** – Interactive breakdown & AI insights  
 🌱 **Sustainability Tips** – AI-generated emission reduction strategies  
 
----
 
 ## 🌎 Why Gemini AI?  
 Matrona leverages **Google's Gemini AI** for **dynamic and intelligent sustainability insights.** It ensures:  
@@ -74,7 +67,6 @@ Matrona leverages **Google's Gemini AI** for **dynamic and intelligent sustainab
 ✔️ **Better natural language understanding** than traditional rule-based systems  
 ✔️ **Scalability** for future enhancements  
 
----
 
 ## 🤝 Contributing
 
@@ -86,7 +78,6 @@ I welcome **contributions**! Feel free to **fork, modify, and submit pull reques
 - 🔜 Integrate **alternative AI models (e.g., OpenAI, Perplexity)**  
 - 🔜 Enhance **UI/UX with more interactive elements**  
 
----
 
 ## ⭐ Support  
 If you like this project, **give it a star ⭐ on GitHub** and share your feedback!  
