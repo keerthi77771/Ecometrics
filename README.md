@@ -1,6 +1,6 @@
-# 🌍 Matrona: AI-Powered Carbon Footprint Tracker
+# 🌍 Ecometrics: AI-Powered Carbon Footprint Tracker
 
-Matrona is an AI-powered sustainability platform that helps individuals estimate their **carbon footprint** and provides **actionable recommendations** to reduce CO₂ emissions. Using **Google Gemini AI**, it dynamically analyzes user data and offers **personalized sustainability tips** based on the highest emission sources.
+Ecometrics is an AI-powered sustainability platform that helps individuals estimate their **carbon footprint** and provides **actionable recommendations** to reduce CO₂ emissions. Using **Google Gemini AI**, it dynamically analyzes user data and offers **personalized sustainability tips** based on the highest emission sources.
 
 
 ## 🚀 Features
@@ -62,7 +62,7 @@ streamlit run home.py
 
 
 ## 🌎 Why Gemini AI?  
-Matrona leverages **Google's Gemini AI** for **dynamic and intelligent sustainability insights.** It ensures:  
+It leverages **Google's Gemini AI** for **dynamic and intelligent sustainability insights.** It ensures:  
 ✔️ **Accurate** & **context-aware** recommendations  
 ✔️ **Better natural language understanding** than traditional rule-based systems  
 ✔️ **Scalability** for future enhancements  
