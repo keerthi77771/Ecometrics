@@ -54,7 +54,7 @@ genai.configure(api_key=GOOGLE_API_KEY)
 streamlit run home.py
 ```
 
-## 📸 Screenshots
+## 📊 Key Features & Insights
 
 🚀 **Homepage** – Introduction & project overview  
 📊 **Results Dashboard** – Interactive breakdown & AI insights  
